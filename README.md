@@ -13,6 +13,8 @@
 
 - Spring Boot解决跨域后session获取不到sessionId不一致问题: https://blog.csdn.net/Xiaodongge521/article/details/87929256
 
+- Spring Boot完美跨域 解决sessionId不一致问题: https://blog.csdn.net/weixin_40461281/article/details/81196932
+
 ## JVM相关
 
 - 最全的 JVM 面试知识点（二）：JVM 类加载：https://mp.weixin.qq.com/s?__biz=MzUzMDkzNjg0Nw==&mid=2247486132&idx=1&sn=ee598e68937ced84199d27f30906ecea&chksm=fa4b6fd4cd3ce6c204db33e82f8ac7075f4968bee19003abf894574a15a625709c715fd597fc&mpshare=1&scene=23&srcid=#rd
