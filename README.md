@@ -18,3 +18,7 @@
 - 最全的 JVM 面试知识点（一）：运行时数据区：https://mp.weixin.qq.com/s?__biz=MzUzMDkzNjg0Nw==&mid=2247486125&idx=1&sn=461628a4ddcb4033ae8a1dde68b2abb8&chksm=fa4b6fcdcd3ce6dbf567504bfa7e2be9c588de312ee12531486ae4052aaa1875118ba8e40eba&mpshare=1&scene=23&srcid=#rd
 
 - 一文学会Java死锁和CPU 100% 问题的排查技巧：https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247488536&idx=2&sn=de81a251e1fc4555a9c6040ec700a7fd&chksm=ebf6cc67dc814571afce9e00662f9478325485d6a0360099eb57f75f9dcfefbb0c2dc6df38a8&mpshare=1&scene=23&srcid=#rd
+
+## sql相关
+
+- 8种常见SQL错误用法: https://mp.weixin.qq.com/s/6DP_Vi4gZUfrUxYXVKfDJA
