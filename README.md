@@ -25,6 +25,8 @@
 
 - 一文学会Java死锁和CPU 100% 问题的排查技巧：https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247488536&idx=2&sn=de81a251e1fc4555a9c6040ec700a7fd&chksm=ebf6cc67dc814571afce9e00662f9478325485d6a0360099eb57f75f9dcfefbb0c2dc6df38a8&mpshare=1&scene=23&srcid=#rd
 
+- hotspot的垃圾回收策略，设置和调优: https://1028826685.iteye.com/blog/2352507
+
 ## sql相关
 
 - 8种常见SQL错误用法: https://mp.weixin.qq.com/s/6DP_Vi4gZUfrUxYXVKfDJA
