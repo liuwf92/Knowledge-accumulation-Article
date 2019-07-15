@@ -11,6 +11,8 @@
 
 - Spring Boot 支持 HTTPS 如此简单，So easy!：https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247490056&idx=1&sn=ed0ab3ae290132b386637b08082e03ec&chksm=eb539f3edc241628b0928d50b7ba23105fc7d080a301815c154bc16192d05c905761b6fb3c8a&mpshare=1&scene=23&srcid=#rd
 
+- Spring Boot解决跨域后session获取不到sessionId不一致问题: https://blog.csdn.net/Xiaodongge521/article/details/87929256
+
 ## JVM相关
 
 - 最全的 JVM 面试知识点（二）：JVM 类加载：https://mp.weixin.qq.com/s?__biz=MzUzMDkzNjg0Nw==&mid=2247486132&idx=1&sn=ee598e68937ced84199d27f30906ecea&chksm=fa4b6fd4cd3ce6c204db33e82f8ac7075f4968bee19003abf894574a15a625709c715fd597fc&mpshare=1&scene=23&srcid=#rd
@@ -22,3 +24,6 @@
 ## sql相关
 
 - 8种常见SQL错误用法: https://mp.weixin.qq.com/s/6DP_Vi4gZUfrUxYXVKfDJA
+
+## 前端
+ 
