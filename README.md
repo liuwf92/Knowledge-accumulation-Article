@@ -17,6 +17,8 @@
 
 - Spring Boot跨域配置: https://www.cnblogs.com/nananana/p/8492185.html
 
+- Springboot 集成osgi 实现本机性能监控: https://blog.csdn.net/zhouzhiwengang/article/details/87982406
+
 ## JVM相关
 
 - 最全的 JVM 面试知识点（二）：JVM 类加载：https://mp.weixin.qq.com/s?__biz=MzUzMDkzNjg0Nw==&mid=2247486132&idx=1&sn=ee598e68937ced84199d27f30906ecea&chksm=fa4b6fd4cd3ce6c204db33e82f8ac7075f4968bee19003abf894574a15a625709c715fd597fc&mpshare=1&scene=23&srcid=#rd
@@ -36,4 +38,5 @@
 ## java
 
 - java使用siger 获取服务器硬件信息（CPU 内存 网络 io等）: https://www.cnblogs.com/jifeng/archive/2012/05/16/2503519.html
- 
+
+
