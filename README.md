@@ -32,4 +32,8 @@
 - 8种常见SQL错误用法: https://mp.weixin.qq.com/s/6DP_Vi4gZUfrUxYXVKfDJA
 
 ## 前端
+
+## java
+
+- java使用siger 获取服务器硬件信息（CPU 内存 网络 io等）: https://www.cnblogs.com/jifeng/archive/2012/05/16/2503519.html
  
