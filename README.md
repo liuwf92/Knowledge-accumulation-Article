@@ -35,6 +35,8 @@
 
 - 数据量很大，分页查询很慢，怎么优化？：https://mp.weixin.qq.com/s/2HrWjaj3PBIh7Xy9MfIPKw
 
+- MySQL性能管理及架构设计（一）：什么影响了数据库查询速度、什么影响了MySQL性能：https://segmentfault.com/a/1190000013672421
+
 ## 前端
 
 ## java
