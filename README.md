@@ -33,6 +33,8 @@
 
 - 8种常见SQL错误用法: https://mp.weixin.qq.com/s/6DP_Vi4gZUfrUxYXVKfDJA
 
+- 数据量很大，分页查询很慢，怎么优化？：https://mp.weixin.qq.com/s/2HrWjaj3PBIh7Xy9MfIPKw
+
 ## 前端
 
 ## java
