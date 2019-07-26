@@ -29,6 +29,8 @@
 
 - hotspot的垃圾回收策略，设置和调优: https://1028826685.iteye.com/blog/2352507
 
+- 深入Java虚拟机之类加载：https://blog.csdn.net/u014042066/article/details/77394480
+
 ## sql相关
 
 - 8种常见SQL错误用法: https://mp.weixin.qq.com/s/6DP_Vi4gZUfrUxYXVKfDJA
