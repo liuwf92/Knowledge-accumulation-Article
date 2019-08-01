@@ -3,9 +3,11 @@
 
 ## REDIS相关
 
--  如何访问 Redis 中的海量数据，服务才不会挂掉？：https://mp.weixin.qq.com/s/XNFrcs7FcN85BYK9bNDR6w
+- 如何访问 Redis 中的海量数据，服务才不会挂掉？：https://mp.weixin.qq.com/s/XNFrcs7FcN85BYK9bNDR6w
 
--  一个致命的 Redis 命令，导致公司损失 400 万！！：https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247487198&idx=2&sn=eea95b2fbad114cabbfbcf1804b8b081&chksm=eb538be8dc2402fee685771deff4852214bc908448ca3cc3644794d66d72d8af843289f0d65d&scene=21#wechat_redirect
+- 一个致命的 Redis 命令，导致公司损失 400 万！！：https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247487198&idx=2&sn=eea95b2fbad114cabbfbcf1804b8b081&chksm=eb538be8dc2402fee685771deff4852214bc908448ca3cc3644794d66d72d8af843289f0d65d&scene=21#wechat_redirect
+
+- 基于 Redis 分布式锁实现“秒杀”：https://mp.weixin.qq.com/s/LRwxR-KWg99v4hfdg4aJ4g
 
 ## SpringBoot相关
 
