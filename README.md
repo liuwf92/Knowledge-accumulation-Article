@@ -47,4 +47,8 @@
 
 - java使用siger 获取服务器硬件信息（CPU 内存 网络 io等）: https://www.cnblogs.com/jifeng/archive/2012/05/16/2503519.html
 
+## idea相关
+
+- 12 个免费又酷炫的 IntelliJ IDEA 插件！：https://mp.weixin.qq.com/s/OE412i0P_JU8FqDI9B6LVQ
+
 
