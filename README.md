@@ -53,4 +53,8 @@
 
 - 12 个免费又酷炫的 IntelliJ IDEA 插件！：https://mp.weixin.qq.com/s/OE412i0P_JU8FqDI9B6LVQ
 
+## spring相关
+
+- Spring 源码分析：不得不重视的 Transaction 事务：https://mp.weixin.qq.com/s/8jWoraaWpeC7qiS6YGLJ_A
+
 
