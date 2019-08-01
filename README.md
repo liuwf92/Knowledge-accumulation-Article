@@ -33,6 +33,8 @@
 
 - 深入Java虚拟机之类加载：https://blog.csdn.net/u014042066/article/details/77394480
 
+- 推荐一款阿里开源的 Java 诊断工具，好用到爆！：https://mp.weixin.qq.com/s/eYFNUtDujpYCAk9-6ByV4Q
+
 ## sql相关
 
 - 8种常见SQL错误用法: https://mp.weixin.qq.com/s/6DP_Vi4gZUfrUxYXVKfDJA
