@@ -35,6 +35,8 @@
 
 - 推荐一款阿里开源的 Java 诊断工具，好用到爆！：https://mp.weixin.qq.com/s/eYFNUtDujpYCAk9-6ByV4Q
 
+- 新生代和老年代垃圾回收的细节：https://mp.weixin.qq.com/s/7I7wzVUOKC9uWXPDt1_Btg
+
 ## sql相关
 
 - 8种常见SQL错误用法: https://mp.weixin.qq.com/s/6DP_Vi4gZUfrUxYXVKfDJA
