@@ -37,6 +37,8 @@
 
 - 新生代和老年代垃圾回收的细节：https://mp.weixin.qq.com/s/7I7wzVUOKC9uWXPDt1_Btg
 
+- 哪些原因会导致JAVA进程退出?：https://mp.weixin.qq.com/s/_Jssj5BfoKpPkl4EieNFbw
+
 ## sql相关
 
 - 8种常见SQL错误用法: https://mp.weixin.qq.com/s/6DP_Vi4gZUfrUxYXVKfDJA
