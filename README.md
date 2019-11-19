@@ -55,6 +55,8 @@
 
 - 一波骚操作，我把 SQL 执行效率提高了 10,000,000 倍：https://mp.weixin.qq.com/s/3-AEWgaNsCNUbsxIDKeW0w
 
+- 如何设计 QQ、微信、微博、Github 等等，第三方账号登陆 ？（附表设计）：https://mp.weixin.qq.com/s/7CdswEWnFjMGToA4oJW1uQ
+
 ## 前端
 
 ## java
