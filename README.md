@@ -51,6 +51,8 @@
 
 - MySQL性能管理及架构设计（一）：什么影响了数据库查询速度、什么影响了MySQL性能：https://segmentfault.com/a/1190000013672421
 
+- 一波骚操作，我把 SQL 执行效率提高了 10,000,000 倍：https://mp.weixin.qq.com/s/3-AEWgaNsCNUbsxIDKeW0w
+
 ## 前端
 
 ## java
@@ -72,3 +74,4 @@
 ## excel相关 
 
 - 如何优雅的导出 Excel：https://mp.weixin.qq.com/s/tibZo-D1pcng8N5qW5lljg
+
