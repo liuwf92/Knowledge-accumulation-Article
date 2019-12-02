@@ -67,6 +67,8 @@
 
 - 你知道 Java 类是如何被加载的吗？: https://mp.weixin.qq.com/s/TeZkZsTorVMhtIuMVXk4Rg
 
+- 服务端推送技术 Server-sent Events 快速上手：http://www.imooc.com/article/296512
+
 ## idea相关
 
 - 12 个免费又酷炫的 IntelliJ IDEA 插件！：https://mp.weixin.qq.com/s/OE412i0P_JU8FqDI9B6LVQ
